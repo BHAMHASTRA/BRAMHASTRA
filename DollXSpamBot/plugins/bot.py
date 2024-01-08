@@ -18,7 +18,7 @@ from datetime import datetime
 DOLL_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/4cfe7cf3ffcce4dc41d8c.jpg"
 
 
-DOLL = "BRAMHASTRA°‌⁪:
+DOLL = "𝘿𝙤𝙡𝙡 ✘ 𝙎𝙥𝙖𝙢 𝙃𝙀𝙍𝙀°‌⁪:
 a gya madherchod apni badi si gand utha ke ✯\n\n"
 DOLL += f"**꧁🇮🇳 🎀  𝑀𝒶𝒹𝑒 𝐼𝓃 𝐼𝓃𝒹𝒾𝒶  🎀 🇮🇳꧂**\n"
 DOLL += f"═══════════════════\n"
