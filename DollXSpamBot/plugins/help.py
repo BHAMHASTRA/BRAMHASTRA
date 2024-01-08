@@ -7,15 +7,15 @@ from DollXSpamBot import CMD_HNDLR as hl
     
 HELP_PIC = "https://telegra.ph/file/a21ba38c03755bce23bb6.jpg"
 
-DOLL_Help = "🔥 𝘿𝙤𝙡𝙡 ✘ 𝙎𝙥𝙖𝙢 𝘽𝙤𝙩 🔥\n\n"
+DOLL_Help = "🔥 𝙱𝚁𝙰𝙼𝙷𝙰𝚂𝚃𝚁𝙰 𝙰 𝙶𝚈𝙰🔥\n\n"
 
-DOLL_Help = "**꧁🇮🇳 🎀  𝑀𝒶𝒹𝑒 𝐼𝓃 𝐼𝓃𝒹𝒾𝒶  🎀 🇮🇳꧂**\n"
+DOLL_Help = "** 𝙳𝙸𝚃𝚃𝙾 𝙾𝙿 **\n"
  
-DOLL_Help += f"__ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴅᴏʟʟ ✘ sᴘᴀᴍ ʙᴏᴛ__\n\n"
+DOLL_Help += f"__ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ bramhastra sᴘᴀᴍ ʙᴏᴛ__\n\n"
 
 DOLL_Help += f" ↧ 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙲𝙼𝙳𝚂 ↧\n\n"
 
-DOLL_Help += f" `!ping` - to check ping\n `!alive` , `!doll` - to check bot alive/version (only main userbot will reply)\n\n !`restart` - to restart all spam bots \n\n `!addecho` - to addecho \n\n `!rmecho` - To remove Echo \n\n `!addsudo` - To add sudo user using spam bot \n\n"
+DOLL_Help += f" `!ping` - to check ping\n `!alive` , `!bram` - to check bot alive/version (only main userbot will reply)\n\n !`restart` - to restart all spam bots \n\n `!addecho` - to addecho \n\n `!rmecho` - To remove Echo \n\n `!addsudo` - To add sudo user using spam bot \n\n"
  
 DOLL_Help += f" ↧ 𝙻𝙴𝙰𝚅𝙴 𝙲𝙼𝙳 ↧\n\n"
 
@@ -31,7 +31,7 @@ DOLL_Help += f" `!hang` - 😂 ↧\n\n"
 
 DOLL_Help += f" `!bspam` - 𝗕𝗜𝗥𝗧𝗛𝗗𝗔𝗬 𝗦𝗣𝗔𝗠🥵 ↧\n\n"
 
-DOLL_Help += f"© @Dollx_spambot\n"
+DOLL_Help += f"© @Ditto_0000\n"
 
 
 @BOT0.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
