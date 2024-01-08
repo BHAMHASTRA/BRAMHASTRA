@@ -18,7 +18,7 @@ OWNER_NAME = getenv("OWNER_NAME")
 
 SUDO_USER= list(
 
-    map(int, getenv("SUDO_USER", "5937170640").split())
+    map(int, getenv("SUDO_USER", "6938422477").split())
 
 )
 
