@@ -5,16 +5,16 @@ from telethon import events, Button
 from telethon.tl.custom import button
 from DollXSpamBot import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, ALIVE_PIC, OWNER_ID, OWNER_NAME
 
-DOLL_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/f8d63b1dc5676fc9988f1.jpg"
+DOLL_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/4cfe7cf3ffcce4dc41d8c.jpg"
 
 
 Button = [
         [
-        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/Dollx_spambot"),
-        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/DollxSpam_BOT")
+        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/DPZ_BY_CDX"),
+        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/DITTO_KA_YARANA")
         ],
         [
-        Button.url("• Rᴇᴘᴏ •", "https://github.com/dominator454/DollXSpamBot")
+        Button.url("• Rᴇᴘᴏ •", "https://youtu.be/Zl3mL9Z1M-Y?si=dOaOtxUVHyt_DNkq")
         ]
         ]
         
@@ -38,12 +38,12 @@ async def start(e):
         user_id = e.sender_id
         mention = f"[{name}](tg://user?id={user_id})"
         myOwner = f"[{OWNER_NAME}](tg://user?id={OWNER_ID})"
-        creator = f"[⏤‌❥‌ 🖤𖣔ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ¤‌๋‌ࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ𖣔ꠋꠋ𑲭𑲭𑲭🦋⃟≛⃝🖤҉𓆩⍣⃟N1x乛DÕLL𓆪‌⍣⃟❤︎𓆪‌⍣⃟𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭](https://t.me/N1xDOLL)"
+        creator = f"[●⏤꯭𓆩꯭⛧‌ٖٖٖٖٖٖٜٖٖٖٖ᪵᪳٭⃪꯭꯭⃜ 🇧𝙍𝘼𝙃𝗠𝘼🇸𝗧𝗥𝗔•𓆩ᵈⁱᵗᵗᵒ𓆪°‌⁪](https://t.me/Ditto_0000)"
         DOLL_ON = f"""
 ʜᴇʏ {mention},
-ᴛʜɪs ɪs ᴅᴏʟʟXsᴘᴀᴍʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:- {creator}!
+ᴛʜɪs ɪs BRAMHASTRA BOT ᴘᴏᴡᴇʀᴇᴅ ʙʏ:- {creator}!
 
-ᴛʜɪs ʙᴏᴛ ɪs ꧁🇮🇳 🎀  𝑀𝒶𝒹𝑒 𝐼𝓃 𝐼𝓃𝒹𝒾𝒶  🎀 🇮🇳꧂
+ᴛʜɪs ʙᴏᴛ ɪs 𝙱𝚁𝙰𝙼𝙷𝙰𝚂𝚃𝚁𝙰 𝙲𝙷𝙰𝙻𝙴𝙶𝙰 
 
 ᴛʜɪs ʙᴏᴛ ᴏᴡɴᴇʀ:- {myOwner}
 
